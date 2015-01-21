@@ -1,3 +1,1 @@
-# This file represents a lot of important, but broken, code. 
-
-while (true); do sl done;
+Thank you, based github, for letting me edit files in the browser.
